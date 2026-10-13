@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>REDFOXIQ TEAM | Cybersecurity Roadmap</title>
+  <meta name="description" content="خارطة طريق تفاعلية تساعدك على بناء مهاراتك الأمنية خطوة بخطوة، عبر كورسات Red Team Leaders Academy، من الأساسيات إلى التخصص الاحترافي." />
+  <meta name="theme-color" content="#0a0a0a" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;500;600;700;800&family=IBM+Plex+Sans+Arabic:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="./css/style.css" />
+  <link rel="stylesheet" href="./css/responsive.css" />
+  <link rel="stylesheet" href="./css/animations.css" />
+</head>
+<body class="no-horizontal-scroll">
+  <header role="banner">
+    <nav class="navbar container" aria-label="التنقل الرئيسي">
+      <a href="/" class="logo">
+        <span class="logo-mark">REDFOXIQ</span> TEAM
+      </a>
+      <ul class="nav-links">
+        <li><a href="#home" class="nav-link">الرئيسية</a></li>
+        <li><a href="#roadmap" class="nav-link">خارطة الطريق</a></li>
+        <li><a href="#about" class="nav-link">عن الخارطة</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main id="home">
+    <section class="hero">
+      <div class="container">
+        <div class="hero-grid">
+          <div class="hero-content fade-in">
+            <h1>من الصفر إلى الاحتراف في الأمن السيبراني</h1>
+            <p class="subtitle">
+              خارطة طريق تفاعلية تساعدك على بناء مهاراتك الأمنية خطوة بخطوة، عبر كورسات Red Team Leaders Academy، من الأساسيات إلى التخصص الاحترافي.
+            </p>
+            <p class="lead">
+              اختر مسارك، ابدأ من الأساسيات، وتقدّم في رحلتك التعليمية مرحلةً بعد مرحلة.
+            </p>
+            <div class="hero-actions">
+              <button id="start-journey" class="btn btn-primary" type="button">
+                ابدأ رحلتك
+              </button>
+              <button id="explore-paths" class="btn btn-ghost" type="button">
+                استكشف المسارات
+              </button>
+            </div>
+            <div class="stats-grid">
+              <div class="stat-card">
+                <div class="stat-value" id="stat-tracks">0</div>
+                <div class="stat-label">مسار تعليمي</div>
+              </div>
+              <div class="stat-card">
+                <div class="stat-value" id="stat-stages">0</div>
+                <div class="stat-label">مرحلة تعليمية</div>
+              </div>
+              <div class="stat-card">
+                <div class="stat-value" id="stat-courses">0</div>
+                <div class="stat-label">دورة مدرجة</div>
+              </div>
+              <div class="stat-card">
+                <div class="stat-value" id="stat-verified">0</div>
+                <div class="stat-label">روابط تم التحقق منها</div>
+              </div>
+            </div>
+            <p class="stat-note" style="margin-top: 1rem; color: var(--text-muted); font-size: 0.875rem;">
+              الإحصائيات محسوبة من البيانات الفعلية. الخارطة تنظيم تعليمي مستقل يستند إلى كتالوج 
+              <a href="https://courses.redteamleaders.com/catalog" target="_blank" rel="noopener noreferrer" style="color: var(--accent-red); text-decoration: none;">Red Team Leaders</a>،
+              وليست صفحة رسمية تابعة للمنصة.
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+
+    <section id="roadmap" class="roadmap-section">
+      <div class="container">
+        <div class="section-header fade-in">
+          <h2>خارطة الطريق التعليمية</h2>
+          <p>اختر مسارك وابدأ التقدم مرحلة تلو المرحلة</p>
+        </div>
+        <div id="roadmap-container"></div>
+      </div>
+    </section>
+
+    <section id="about" class="about-section">
+      <div class="container">
+        <div class="about-content fade-in">
+          <h2>عن REDFOXIQ TEAM</h2>
+          <p>
+            خارطة طريق تفاعلية تهدف إلى تنظيم رحلة التعلم في الأمن السيبراني بشكل عملي وواضح، بالاعتماد على الكورسات المتاحة في منصة Red Team Leaders Academy.
+          </p>
+          <p style="margin-top: 1rem; color: var(--text-secondary);">
+            جميع الروابط تؤدي إلى صفحات الكورسات الأصلية. تم التأكد من صحة الروابط قدر الإمكان بناءً على الكتالوج الرسمي.
+            حقوق الموقع: REDFOXIQ TEAM.
+          </p>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer role="contentinfo">
+    <div class="container footer-content">
+      <p>&copy; <span id="year"></span> REDFOXIQ TEAM. جميع الحقوق محفوظة.</p>
+      <p class="footer-note">
+        خارطة طريق تعليمية مستقلة - المستند الأساس: 
+        <a href="https://courses.redteamleaders.com/catalog" target="_blank" rel="noopener noreferrer">courses.redteamleaders.com/catalog</a>
+      </p>
+    </div>
+  </footer>
+
+  <button id="back-to-top" class="back-to-top" title="العودة إلى أعلى الصفحة" aria-label="العودة إلى أعلى الصفحة" hidden>
+    ↑
+  </button>
+
+  <script src="./js/storage.js"></script>
+  <script src="./js/courses.js"></script>
+  <script src="./js/app.js"></script>
+  <script>
+    document.getElementById('year').textContent = new Date().getFullYear();
+    const backToTop = document.getElementById('back-to-top');
+    window.addEventListener('scroll', () => {
+      backToTop.hidden = window.scrollY < 400;
+    });
+    backToTop.addEventListener('click', () => {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+  </script>
+</body>
+</html>

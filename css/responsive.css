@@ -1,0 +1,59 @@
+@media (max-width: 640px) {
+  .nav-links {
+    gap: 0.5rem;
+  }
+  .nav-link {
+    font-size: 0.875rem;
+    padding: 0.375rem 0.625rem;
+  }
+  .hero {
+    padding: 2.5rem 0 2rem;
+  }
+  .hero-actions {
+    flex-direction: column;
+    width: 100%;
+  }
+  .btn {
+    width: 100%;
+    justify-content: center;
+  }
+  .stats-grid {
+    gap: 0.75rem;
+  }
+  .stat-card {
+    padding: 0.875rem;
+  }
+  .stage-card {
+    margin-bottom: 1rem;
+  }
+  .course-card {
+    padding: 0.875rem;
+  }
+  .search-input {
+    font-size: 16px; /* prevents zoom on iOS */
+  }
+  .modal-content {
+    width: 95%;
+    max-height: 95vh;
+  }
+}
+
+@media (min-width: 1024px) {
+  .hero-grid {
+    grid-template-columns: 2fr 1fr;
+  }
+}
+
+.no-horizontal-scroll {
+  overflow-x: hidden;
+  max-width: 100%;
+}
+
+img, svg {
+  max-width: 100%;
+  height: auto;
+}
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}

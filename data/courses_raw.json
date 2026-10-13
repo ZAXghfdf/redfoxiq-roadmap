@@ -1,0 +1,1877 @@
+[
+  {
+    "id": "b7a70dc7-4599-40e9-a0a8-3360df5cb0b1",
+    "title": "AV/EDR Evasion Practical Techniques",
+    "subtitle": "Advanced techniques to bypass modern Antivirus and EDR solutions through real-world offensive development strategies.",
+    "description_md": "This course dives deep into the offensive security techniques used to bypass modern Antivirus (AV) and Endpoint Detection and Response (EDR) systems. Designed for red team operators, malware developer...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/b7a70dc7-4599-40e9-a0a8-3360df5cb0b1",
+    "image_path": "3e9e0212-81dc-49ed-9233-ec9ca894fc6a/be2bf45a-8e2a-4bf4-876b-b85cd2e36f1c",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "b4c1e75e-ef0e-40b5-bf0e-a535436517fa"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "139f322d-db62-4c42-b3df-79d222c87d93",
+    "title": "Foundations of Log Analysis for Cyber Defense",
+    "subtitle": "Learn to detect threats, understand system behavior, and respond to incidents through structured log analysis.\n\n",
+    "description_md": "## Foundations of Log Analysis for Cyber Defense\n\nMaster enterprise log analysis, security telemetry correlation, SIEM investigations, and threat hunting methodologies used to detect, investigate, and...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/139f322d-db62-4c42-b3df-79d222c87d93",
+    "image_path": "5ba830c2-0137-431a-8619-4370fc325b22/4fd9fa2b-37db-48ea-b419-ff0572e55d38",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "9db8e8fa-433c-4437-a5c6-df76776de199"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "9f6555c4-a83a-41d7-9401-0a174352a952",
+    "title": "Introduction to Bug Bounty",
+    "subtitle": "Methods, Recon and Real-World Vulnerabilities",
+    "description_md": "# Introduction to Bug Bounty\n\nMaster the Foundations of Modern Hacker-Powered Security\n\nBug Bounty programs have become one of the most effective approaches to strengthening application security by co...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/9f6555c4-a83a-41d7-9401-0a174352a952",
+    "image_path": "9372210c-d41a-4893-b87c-ddf7076750e1/46b98760-acc4-4ba6-8c43-c676e477192a",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "03991bcb-939c-4988-8527-deb3e1c317d4"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "136b413d-7aa2-4a20-912e-a45a50d64748",
+    "title": "Introduction to Offensive Security with Artificial Intelligence",
+    "subtitle": "Learn how Artificial Intelligence can empower Red Team operations through automation, reconnaissance, and offensive simulation",
+    "description_md": "**Introduction to Offensive Security with Artificial Intelligence** is a beginner-level course designed to bridge the gap between red teaming and modern AI tools. With a focus on hands-on learning and...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/136b413d-7aa2-4a20-912e-a45a50d64748",
+    "image_path": "4cc576dd-934b-4289-a100-8a233fe07ef2/88978fc1-93cd-48d1-9ad3-c5ee43d97c53",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "5defdde9-0029-4c8f-b768-248b5c029506"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "500f6782-7da3-47ca-be3d-b3f43d916263",
+    "title": "Introduction to Python for Defensive Security",
+    "subtitle": "A hands-on introduction to automating defensive security tasks with Python",
+    "description_md": "# Introduction to Python for Defensive Security\n\nPython has become one of the most important programming languages in modern defensive cybersecurity, enabling security professionals to automate repeti...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/500f6782-7da3-47ca-be3d-b3f43d916263",
+    "image_path": "112c82c5-933f-4a83-8bca-8c825b905309/b2d95e7a-eac3-4d53-ba7f-0ceb776b5727",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "e76b4dcf-f616-4275-9772-ffca8e08485b"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "e3d634e6-7a89-4fa8-814a-d3585dd1046f",
+    "title": "Introduction to Python for Offensive Security",
+    "subtitle": "This course aims to provide participants with a practical and direct view of how to use the Python language in offensive security activities. Throughout the classes, you will learn the fundamentals of the Python language specific to creating tools and scripts used in penetration testing (pentesting), vulnerability exploitation, information gathering (reconnaissance) and automation of tasks common to security professionals.",
+    "description_md": "## Introduction to Python for Offensive Security\n\n**Description:**\n\nThis hands-on course provides a solid foundation in Python programming with a direct application to offensive cybersecurity operatio...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/e3d634e6-7a89-4fa8-814a-d3585dd1046f",
+    "image_path": "ce82d160-2ef7-4f2c-8b15-e5ea742b1877/b59dd65f-884b-4808-a9b1-1cd5d493064c",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "0339c8ff-c45f-4b89-b5ca-523f253e88d7"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "07fac3d9-72be-4e86-9af8-fa8ec359b0ca",
+    "title": "Introduction to Red Team Operation Management",
+    "subtitle": "Planning, Execution and Coordination of Offensive Operations with a Focus on Real Results",
+    "description_md": "This advanced course is designed for cybersecurity professionals, technical leaders, and governance specialists seeking to build or manage effective Red Team capabilities within enterprise or regulate...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/07fac3d9-72be-4e86-9af8-fa8ec359b0ca",
+    "image_path": "1390aba4-3ad7-4ae2-8e2a-4575a821b0f7/1028d7f3-5860-4796-ba86-b6fad89f870f",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "55e0dc4f-32e0-477d-a0bf-b4cffbcc77b1"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "332ef733-9a51-4cc1-8bbb-e53bb65a9fa6",
+    "title": "Malware Analysis Introduction v1",
+    "subtitle": "Foundations, Techniques, and Operational Relevance for Blue and Red Teams",
+    "description_md": "# Malware Analysis Introduction v1\n\nMaster modern malware analysis through structured methodologies for static and dynamic inspection, memory forensics, operational integration, and threat intelligenc...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/332ef733-9a51-4cc1-8bbb-e53bb65a9fa6",
+    "image_path": "e8bb66f3-4920-4694-8323-04795d7556be/64015f48-28bc-417b-ad01-3849cd9db205",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "552b1a8d-3f69-4fd3-917f-27dec977a259"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "a3cf47bc-5038-4448-bae9-e332a2a35f5f",
+    "title": "Offensive Development Introduction for Windows v1",
+    "subtitle": "Learn the fundamentals of offensive development on Windows, including evasion techniques, API abuse, and shellcode execution. Designed for aspiring Red Teamers and security researchers",
+    "description_md": "## Offensive Development Introduction for Windows v1\n\nBuild a strong foundation in Windows offensive development through practical C++ programming, Windows API development, Red Team fundamentals, malw...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/a3cf47bc-5038-4448-bae9-e332a2a35f5f",
+    "image_path": "62c9b0f6-6a0a-488c-870b-4ca0ac754378/6853c82d-efb8-4933-8929-a85307b6315b",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "f9de46cf-2893-482b-b572-29bd77a0fad5"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "565ec0c5-1360-4d71-a767-dc0266a2482e",
+    "title": "OpSec & Anonymity for Red Teams",
+    "subtitle": "Advanced Operational Security and Digital Anonymity for Offensive Security Professionals\n\n",
+    "description_md": "This hands-on course teaches advanced Operational Security (OpSec) principles and digital anonymity strategies tailored specifically for Red Team operators, offensive security engineers, and threat si...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/565ec0c5-1360-4d71-a767-dc0266a2482e",
+    "image_path": "e07e722b-642c-4191-b3a3-29cf39236968/3b373176-4cda-4945-a812-2d1eefa4edab",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "e3d51024-896e-4cbb-a2ef-06da617cbe75"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "d7d4eb5f-9f38-4880-9047-74c7670c525d",
+    "title": "Purple Team - Active Directory and AzureAD v1",
+    "subtitle": "Red Teaming and Blue Teaming Tactics",
+    "description_md": "# Purple Team - Active Directory and AzureAD v1\n\nModern enterprise identity spans both on-premises Active Directory and Microsoft Entra ID (Azure AD), creating complex hybrid environments that require...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/d7d4eb5f-9f38-4880-9047-74c7670c525d",
+    "image_path": "998adff7-947b-479f-a375-40d9e86ff66e/768381a6-49fd-4825-b21b-e9f7327b8dc0",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "159198b9-3dcb-41e6-97b0-1dbbda26a5bb"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "ae2386e5-5082-47f4-9130-e9f09d4559d0",
+    "title": "Windows API for Red Team Introduction",
+    "subtitle": "Windows API Fundamentals for Red Team Operations",
+    "description_md": "# Windows API for Red Team Introduction\n\n### Build a practical foundation in Windows API programming, C++, Windows Internals, and introductory offensive development for modern Red Team operations.\n\n--...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/ae2386e5-5082-47f4-9130-e9f09d4559d0",
+    "image_path": "96e8cffc-ac6e-4605-b7e1-39c6c26bd2e8/44586111-31b7-4781-a442-82c573e25fe5",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "339ec7ff-be8a-4d86-a8c8-12002e155847"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "cb2d610c-eb83-471e-89a6-ba4552005e0a",
+    "title": "Physical PenTest Fundamentals",
+    "subtitle": "Physical Pentest Fundamentals: Real-World Techniques in Social Engineering, Recon, and Facility Breach Operations",
+    "description_md": "# Physical PenTest Fundamentals\n\nModern organizations rely on layered physical security controls to protect people, facilities, information, and critical assets. This course provides a structured intr...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/cb2d610c-eb83-471e-89a6-ba4552005e0a",
+    "image_path": "73d8fc3b-1322-4fda-a6e5-b2e6be0d08e3/d89dc116-b618-4a0d-b47d-61cac08dca48",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "97747f7f-f67b-4c91-b4d1-4757cc1d8739"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "88109b96-7d00-484c-ab1d-763a4f7447e1",
+    "title": "Active Directory ADCS - Labs",
+    "subtitle": "From zero to Domain Admin through Active Directory Certificate Services - hands-on ESC1–ESC16 on a live Enterprise CA.",
+    "description_md": "# Active Directory Certificate Services\n\n## Subtitle\n\nFrom zero to Domain Admin through Active Directory Certificate Services — hands-on ESC1–ESC16 on a live Enterprise CA.\n\n## Description\n\nA fully we...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/88109b96-7d00-484c-ab1d-763a4f7447e1",
+    "image_path": "0137c6b2-3054-425e-895e-b3ccd77a943e/a9d5bfd7-a604-4c32-8bc9-723e486b3be8",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "paid",
+        "price_cents": 1000,
+        "discount_price_cents": null,
+        "external_url": null,
+        "id": "9e3d9b35-f718-4893-b78d-f101d442d3d8"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "e47b1833-be61-41d7-b438-fa18f80b57a5",
+    "title": "Active Directory Compromise - Laboratory",
+    "subtitle": "From Network Access to Valid Domain Credentials in a Misconfigured AD Environment",
+    "description_md": "This hands-on lab focuses on **Windows Active Directory security** and demonstrates how real-world misconfigurations can lead to **initial domain compromise**.  \nParticipants will interact with a vuln...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/e47b1833-be61-41d7-b438-fa18f80b57a5",
+    "image_path": "6d3eb16f-6614-4e88-8348-bbc93ee87b38/c2642e8b-1670-47c9-bbf8-77870a91adf8",
+    "available_at": null,
+    "purchase_options": [],
+    "price_label": null
+  },
+  {
+    "id": "3f1475de-1ff0-45e8-8599-257844eaf12c",
+    "title": "Advanced AV/EDR Evasion Engineering",
+    "subtitle": "A Deep-Dive into 100 Techniques for Bypassing Modern Endpoint Security. From Memory Loaders to Kernel-Level Stealth.",
+    "description_md": "## Course Overview\n\nModern endpoint detection and response platforms have evolved into formidable adversaries for red team operators. The days of compiling a payload with a public framework and expect...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/3f1475de-1ff0-45e8-8599-257844eaf12c",
+    "image_path": "b81e7441-50ac-4453-97d1-f02b24d98e8a/ae07f34d-7a71-458f-aed0-f8aa61fd4039",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 500,
+        "max_cents": 100000,
+        "default_cents": 1000,
+        "id": "3d55f197-e8a8-4b41-ab7c-0553229ffcc4"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "40cfbd54-e918-490f-8a20-9e33a9635a9d",
+    "title": "Advanced C2 Development",
+    "subtitle": "Building Modern Command & Control Infrastructure",
+    "description_md": "## Course Overview\n\nThis comprehensive course teaches you how to design, develop, and deploy a modern Command & Control (C2) framework from scratch using industry-standard technologies and security pr...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/40cfbd54-e918-490f-8a20-9e33a9635a9d",
+    "image_path": "93d7f7d7-194b-4782-984b-25892894b447/5a07d985-dbde-417d-8187-49435040c1cf",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 150,
+        "max_cents": 100000,
+        "default_cents": 500,
+        "id": "70633aeb-262b-4e7c-b3e3-368edbe12b2e"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "f9c6bc52-065f-4c0a-8a27-3386d38e5fd3",
+    "title": "Advanced Exploit Development",
+    "subtitle": "A comprehensive exploit development course covering x86, x64, and ARM architectures",
+    "description_md": "## Course Overview\n\nA comprehensive, hands-on course designed to teach the theory and practice of modern exploit development. It focuses on understanding how software vulnerabilities occur at the lowe...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/f9c6bc52-065f-4c0a-8a27-3386d38e5fd3",
+    "image_path": "999de2ee-21a6-429b-9740-2c4f42a15953/1dab1c09-196c-4e21-828f-60685e705c5d",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 100,
+        "max_cents": 100000,
+        "default_cents": 500,
+        "id": "3e22131f-ee34-4a4e-ab11-33cab810ee15"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "772e6f64-cbff-4632-bcf7-a8491d45a03c",
+    "title": "Advanced OSINT Mastery",
+    "subtitle": "From Methodology to Actionable Intelligence",
+    "description_md": "### Course Overview\n\nThis is a comprehensive, advanced-level Open Source Intelligence (OSINT) course designed for security professionals, investigators, intelligence analysts, journalists, and researc...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/772e6f64-cbff-4632-bcf7-a8491d45a03c",
+    "image_path": "180c168d-a587-4159-be2b-17f1ddd1848d/62e87a03-367d-40bf-a768-9400aec0e075",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "861efba2-7acf-4487-8e74-dbb0c31692ab"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "e7a17d1e-1094-4873-b54d-53fc04a8d91a",
+    "title": "Advanced Post-Exploitation Mastery Course",
+    "subtitle": "Complete Red Team & Penetration Testing Post-Exploitation Training",
+    "description_md": "## Course Overview\n\nThis comprehensive course covers every aspect of post-exploitation operations used by professional penetration testers and red team operators. From initial situational awareness th...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/e7a17d1e-1094-4873-b54d-53fc04a8d91a",
+    "image_path": "0ef9d60b-33ce-463f-97d2-b7a1ff5ebd11/81257546-7e14-43fe-bc39-368dbeda491c",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 200,
+        "max_cents": 1000000,
+        "default_cents": 700,
+        "id": "4cd0bad7-628b-4c00-8539-4923cbbdc67b"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "e0ca172b-68ae-45bf-973d-733b7510f64e",
+    "title": "Aerospace & Satellite Hacking",
+    "subtitle": "Advanced Space Systems, SDR Signal Intelligence and Aerospace Cybersecurity",
+    "description_md": "**Course Description – Aerospace & Satellite Hacking**\n\nAerospace & Satellite Hacking is an entry-level course designed to provide a strong technical foundation in space systems, satellite communicati...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/e0ca172b-68ae-45bf-973d-733b7510f64e",
+    "image_path": "838d3fe5-9e8d-4d6c-90f9-188557b4dd18/00ca5753-8b6d-41dd-a3b1-97f17fcdf45a",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 0,
+        "max_cents": 100000,
+        "default_cents": 100,
+        "id": "7c47fba4-e156-4102-8966-93d5935dca91"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "16b025c7-e818-4682-8c88-59480ba373ef",
+    "title": "AI Offensive Security Lab",
+    "subtitle": "Exploiting Vulnerabilities in LLMs ",
+    "description_md": "## Course Description\n\n**AI Security Lab** is a hands-on course for learning how to assess the security of LLM applications and AI agents. Through 50 interactive challenges, you will explore prompt in...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/16b025c7-e818-4682-8c88-59480ba373ef",
+    "image_path": "1eab843d-878d-43fd-95c5-348f4a38a895/42e6a80d-1a51-47dc-accc-e63b32205a8d",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "paid",
+        "price_cents": 1000,
+        "discount_price_cents": null,
+        "external_url": null,
+        "id": "691c5090-8b1b-4af9-ac45-c31333cadcc6"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "9e37f9f2-4048-4dfe-9c42-4b6eb6156ced",
+    "title": "AI Security Risk: From Foundations to Secure Operations",
+    "subtitle": "A Complete Guide to Risk, Governance, Identity, and Secure Operations for LLMs, Agents, and Copilots",
+    "description_md": "# AI Security Risk — Complete Professional Course\n\n> A comprehensive, expert-level course on AI Security Risk for security professionals, AI practitioners, risk managers, compliance officers, and tech...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/9e37f9f2-4048-4dfe-9c42-4b6eb6156ced",
+    "image_path": "c9482773-c70f-44a3-8a3a-ad295c3dfde2/3b9336ea-783a-4e1b-a80b-db4f683b7fd4",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 0,
+        "max_cents": 100000,
+        "default_cents": 500,
+        "id": "182be1e0-6719-4b5a-96f5-3f31ec0afa1f"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "c7b0a931-f94e-4a43-b58d-f93c3b7ae80d",
+    "title": "Application Security Labs",
+    "subtitle": "Train your team and develop a culture of safe development",
+    "description_md": "# Security Champions Training Platform\n\n## Transform Your Developers Into Security Champions\n\nA hands-on training platform that teaches secure coding through real vulnerability exploitation and remedi...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/c7b0a931-f94e-4a43-b58d-f93c3b7ae80d",
+    "image_path": "a85b4872-8d37-4827-bda6-cda505fa6f87/b64f8667-0a26-4826-9b70-3295a5b73e6a",
+    "available_at": null,
+    "purchase_options": [],
+    "price_label": null
+  },
+  {
+    "id": "9d6e0774-4b62-4146-b86f-349aadfa6da2",
+    "title": "Artifical Intelligence Model Reverse Engineering",
+    "subtitle": "A Comprehensive Hands-On Course for Security Researchers, ML Engineers, and AI Auditors",
+    "description_md": "## What This Course Is\n\nThis course is a systematic, technical guide to reverse engineering artificial intelligence models. You will learn\nto take a machine learning system—whether accessed only throu...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/9d6e0774-4b62-4146-b86f-349aadfa6da2",
+    "image_path": "24f2bdcd-eebc-4035-9ff3-0d7c89f61dce/4cebd144-51f9-4e3f-900d-1fb21aec901b",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "083d40c8-ec38-4845-9510-4c754beffc5a"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "5d7a3409-2146-41fa-854e-4cb115d0d9a2",
+    "title": "Artificial Intelligence Architecture and Security - Introduction",
+    "subtitle": "Master AI architecture, neural networks, embeddings, RAG, model alignment, and defense-in-depth security controls for cloud AI systems.",
+    "description_md": "# Artificial Intelligence Architecture and Security - Introduction\n\n## Course Overview\n\nThis course provides a comprehensive, hands-on journey through the architecture and security of modern AI system...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/5d7a3409-2146-41fa-854e-4cb115d0d9a2",
+    "image_path": "efc41b87-84e6-484a-a7e3-1f5567b9aba1/d07d5a58-7716-4ab4-b79e-c81c8b16b093",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 0,
+        "max_cents": 100000,
+        "default_cents": 500,
+        "id": "b74ee4a1-22ba-4779-8e57-edb9e8a4ff9f"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "610c71dc-9e94-4413-8c5d-4fa8ca3b9468",
+    "title": "Artificial Intelligence Research",
+    "subtitle": "From First Principles to Production: A Complete Guide to Modern AI Research and Engineering",
+    "description_md": "A comprehensive, hands-on curriculum covering the full spectrum of modern Artificial Intelligence — from mathematical foundations to production-grade agent systems and frontier research methods.\n\n---\n...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/610c71dc-9e94-4413-8c5d-4fa8ca3b9468",
+    "image_path": "23d85376-eeaf-43b6-a2a1-7cf1c366c701/e6c73cd5-46b1-423b-a434-238e513d41da",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "0d0f2585-60b6-4731-81d5-8dd8b4681518"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "424027ec-0dea-4bf4-90e1-7b571b5f54f6",
+    "title": "Assembly Language x86/x64",
+    "subtitle": "Learn assembly language in different architectures",
+    "description_md": "**Course Description**\n\nThis course provides a deep and practical introduction to assembly language across modern architectures, with a strong focus on x86 and x64\\. Students will learn how CPUs execu...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/424027ec-0dea-4bf4-90e1-7b571b5f54f6",
+    "image_path": "58b8f369-575e-48c2-a036-dee2cc826b5b/3eec9b1d-5d75-4370-9fe1-8a28ac67b007",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 0,
+        "max_cents": 100000,
+        "default_cents": 0,
+        "id": "5dcbe9cd-ad25-4d13-b22e-d62d7d4b57e8"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "5042f309-5122-495f-ad60-4bcaceca432d",
+    "title": "ATM Penetration Testing & Security Assessment",
+    "subtitle": "From ATM Architecture to Real-World Attacks and Defensive Controls",
+    "description_md": "## Course Description\n\n**ATM Penetration Testing & Security Assessment** is a comprehensive technical course focused on understanding, attacking, and securing Automated Teller Machine (ATM) environmen...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/5042f309-5122-495f-ad60-4bcaceca432d",
+    "image_path": "eced6306-b938-475c-83a5-6718815da59e/51cc81c7-8a17-4910-b595-5357f4e86e83",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 0,
+        "max_cents": 100000,
+        "default_cents": 0,
+        "id": "e453ebb7-dc79-4c0d-9e1f-4df1a92a779a"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "8b9346b1-7279-4f2f-81b2-f3f4880ed7c2",
+    "title": "AV/EDR Evasion Practical Techniques 2.0",
+    "subtitle": "Windows Internals, Syscalls, EDR Bypass, Process Injection & AI-Powered Adversarial Testing",
+    "description_md": "# AV/EDR Evasion Practical Techniques 2.0\n\n**Windows Internals, Syscalls, EDR Bypass, Process Injection & AI-Powered Adversarial Testing — 60 Hands-On Labs**\n\n---\n\n## What You Will Learn\n\nThis course ...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/8b9346b1-7279-4f2f-81b2-f3f4880ed7c2",
+    "image_path": "05ff0e46-bfce-42c6-96f6-4906fe1057e7/07467456-98f2-4237-aeb2-35c41b79d50c",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 0,
+        "max_cents": 100000,
+        "default_cents": 500,
+        "id": "246f3fc9-df9f-4465-8a59-06f61b69d756"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "851c1925-aa18-458c-8ec1-c7403e8f1fae",
+    "title": "Beacon Object File (BoF) - Development",
+    "subtitle": "Practical BOF development for modern C2 frameworks",
+    "description_md": "## Description\n\n**BOFDEV** is a hands-on, developer-focused training project dedicated to **Beacon Object File (BOF) engineering and C2 extension development** across multiple modern offensive framewo...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/851c1925-aa18-458c-8ec1-c7403e8f1fae",
+    "image_path": "a916394d-ff19-426c-897a-ecfd361626e1/003e9208-f637-4e61-a6b5-55337e8f7961",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 0,
+        "max_cents": 100000,
+        "default_cents": 200,
+        "id": "e47202e7-d9e8-4b4e-a1e8-336ac2613371"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "c9a2e473-2eee-4b48-bfd5-c336b0aa0cff",
+    "title": "Biohacking Essentials",
+    "subtitle": "Optimize your body, mind, and performance with science and awareness",
+    "description_md": "# Biohacking Essentials\n\nBiohacking Essentials provides a structured, evidence-informed introduction to modern human performance optimization. Rather than promoting shortcuts or unverified trends, thi...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/c9a2e473-2eee-4b48-bfd5-c336b0aa0cff",
+    "image_path": "99683993-775f-4dd4-88dd-3c7e9f9c8c6e/4fb2dbc4-f45c-4472-9bf9-596f349deeda",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "171274e9-6bf4-4824-aadb-3c8c349c2059"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "b0268e77-8dc1-4ea0-a532-502c87efbb1f",
+    "title": "BreachYard: Red Team Lab AD + Linux",
+    "subtitle": "AD and Linux Attack Chains (OSCP, OSEP, CRTP, CRTE Preparation)",
+    "description_md": "# BreachYard — Description\n\nIsolated 8-VM red-team lab. AD (Windows Server 2022, domain `breachyard.local`) + Linux fleet, wired for lateral movement and privilege escalation practice. Built around AD...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/b0268e77-8dc1-4ea0-a532-502c87efbb1f",
+    "image_path": "ff2bcfa3-a09f-4383-8b5b-336fe95d79d8/66767968-e62a-4f51-9897-fa79f891fba2",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "paid",
+        "price_cents": 1600,
+        "discount_price_cents": null,
+        "external_url": null,
+        "id": "5d264715-a063-4800-afba-4ac2931f1b19"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "3cdfd459-6cb6-426c-b499-0faf1af7ec97",
+    "title": "Breaking Containers: Offensive Kubernetes",
+    "subtitle": "From Linux Primitives to Full Cluster Compromise and Back (Attack & Defense for GKE, EKS & AKS)",
+    "description_md": "# Breaking Containers: Offensive Kubernetes\n\n**Attack & Defense for Containers and Cloud-Managed Kubernetes (GKE · EKS · AKS)**\n\n> **Includes 40 lab credits and 1 dedicated virtual machine** to explor...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/3cdfd459-6cb6-426c-b499-0faf1af7ec97",
+    "image_path": "08228824-5a6e-425f-a367-3ca43785ead8/ad7dbad7-ea61-4bde-964b-1f2e75615e7a",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 900,
+        "max_cents": 100000,
+        "default_cents": 1000,
+        "id": "85f1a15c-628e-46eb-8691-fa6a79e59d8f"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "75e11988-5ba8-4fce-b703-8be73281fa39",
+    "title": "Building & Breaking Ransomware ",
+    "subtitle": "Understanding Modern Ransomware Through Hands-On Implementation, Analysis, and Detection ",
+    "description_md": "## Course Description\n\nThis comprehensive, hands-on course takes you through the complete lifecycle of modern ransomware — from the cryptographic primitives that make it possible, through Windows inte...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/75e11988-5ba8-4fce-b703-8be73281fa39",
+    "image_path": "3f154aee-8a50-4dd0-9840-1e756dffb1fb/7ae1702f-4b75-4d1f-b93c-21c8a73b042d",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 300,
+        "max_cents": 100000,
+        "default_cents": 1000,
+        "id": "19f5ceb9-4575-40a0-a238-b9842914f064"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "851a5e87-6f41-45cc-a6fd-e0c49c9271ba",
+    "title": "Building an Autonomous Offensive-Security Harness",
+    "subtitle": "Architecture, model routing, GraphRAG, evidence and validation for autonomous offensive security in Rust",
+    "description_md": "Most \"AI hacking\" demos are a clever prompt wrapped around a chat model. This course builds the opposite: a real **autonomous offensive-security harness** in Rust, where the language model is only the...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/851a5e87-6f41-45cc-a6fd-e0c49c9271ba",
+    "image_path": "15dd049e-1ee6-4c77-a6cf-80568ea5d298/d33003c2-a699-4d8a-a782-27e74b1ccc85",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 500,
+        "max_cents": 100000,
+        "default_cents": 1000,
+        "id": "c74d6dcf-7e3c-44df-87dd-8383f31e45eb"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "5a388293-effa-4dc0-928b-7e9cece8d6dd",
+    "title": "Building Red Team Operations",
+    "subtitle": "Platform for building a red team operation and an introductory course.\n",
+    "description_md": "Building Red Team Operations is a foundational course designed to provide clear, practical insights into how to structure, execute, and manage professional red team engagements. It covers the core pri...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/5a388293-effa-4dc0-928b-7e9cece8d6dd",
+    "image_path": "9963b449-1efb-4fef-a20e-3e2691a53ab2/07d5c693-5a81-4ab8-971a-4c09daf747d4",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "paid",
+        "price_cents": 1000,
+        "discount_price_cents": 500,
+        "external_url": null,
+        "id": "627de7d3-1770-42b9-8231-3ff909cee01e"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "1bc9aaeb-e1e2-4f04-9ae3-617c22ddade3",
+    "title": "Certified Active Directory PenTest (CADP) ",
+    "subtitle": "Explore vulnerabilities in an Active Directory infrastructure\n",
+    "description_md": "### Description\n\nThe **CADP (Certified Active Directory Pentester) Lab** is an advanced, enterprise-grade Active Directory penetration testing environment designed to simulate real-world corporate inf...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/1bc9aaeb-e1e2-4f04-9ae3-617c22ddade3",
+    "image_path": "bb112222-ef25-4aa3-9f92-226505b4258d/95797ee9-8460-43a3-ad23-857778d2bfcf",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "paid",
+        "price_cents": 7999,
+        "discount_price_cents": 6999,
+        "external_url": null,
+        "id": "9b9371ed-6dc9-4eb5-9433-67ec73f8f37d"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "802b381e-fab1-4d34-a94b-02591290da3d",
+    "title": "Certified LLM Security Professional and Expert - Course Preparation",
+    "subtitle": "CLLMSP and CLLSME Exam Preparation",
+    "description_md": "# LLM & AI Agent Security — Attack · Defend · Govern\n\n**The complete dual-certification preparatory course for CLLMSP and CLLMSE.**\n\nEvery company is shipping LLM features and AI agents, and almost no...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/802b381e-fab1-4d34-a94b-02591290da3d",
+    "image_path": "76172b63-32cd-4e3b-aaf9-6d3bf005348a/01f26076-ba79-4daf-b0dc-d6caf98fe89d",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 0,
+        "max_cents": 100000,
+        "default_cents": 500,
+        "id": "44d38339-b724-4b18-8ce5-3e29a593da0e"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "05404f79-c738-4c57-aaa0-924946031450",
+    "title": "Complete Web Penetration Testing",
+    "subtitle": "From fundamentals to advanced exploitation and reporting",
+    "description_md": "## **Course Description**\n\nThe **Complete Web Penetration Testing Course** is a comprehensive, end-to-end training program designed to take students from foundational web security concepts to advanced...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/05404f79-c738-4c57-aaa0-924946031450",
+    "image_path": "2d5857fb-fc51-4795-91a4-d66e3c44880b/994bdf7f-c98e-4a84-b499-5e606b9374ab",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 0,
+        "max_cents": 100000,
+        "default_cents": 250,
+        "id": "3b1685c2-a5b4-4aa8-8679-30a9571ca80e"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "f0b9991a-f412-46d3-915b-ab365af4d491",
+    "title": "CSAM Combat & Investigation Introduction",
+    "subtitle": "Advanced Techniques and Tools for the Detection, Analysis, and Prevention of CSAM",
+    "description_md": "**CSAM Combat & Investigation Introduction**  \nThis introductory course equips participants with the foundational knowledge and practical skills to combat and investigate Child Sexual Abuse Material (...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/f0b9991a-f412-46d3-915b-ab365af4d491",
+    "image_path": "2a412d31-a2e4-47ce-9709-14f711e1d53b/9fc359a5-e690-4f50-979e-6953cbfcdfdb",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "25ea6550-88c3-4b34-829b-1370748073a9"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "1a278042-f8dc-43b3-8dc0-e7a44adbd3d3",
+    "title": "CVE Labs Linux v1",
+    "subtitle": "Hands-on CVE exploitation across a real Linux attack chain",
+    "description_md": "**Stop reading about CVEs. Start exploiting them.**\n\nCVE Labs Linux drops you into a live, isolated attack chain across four Ubuntu machines — each running a real 2024 vulnerability, each holding flag...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/1a278042-f8dc-43b3-8dc0-e7a44adbd3d3",
+    "image_path": "8ca9374a-87ce-4248-b95d-d6f1d76adf19/6c7290e2-13d4-4f83-871a-02f72c793f8b",
+    "available_at": null,
+    "purchase_options": [],
+    "price_label": null
+  },
+  {
+    "id": "332b1e92-b6bb-4596-ac74-d6802ed11d22",
+    "title": "Cyber Security Architecture v1",
+    "subtitle": "A complete, modern, and deep exploration of how to design, review, implement, and communicate enterprise-grade security architectures across identity, networks, applications, cloud, operations, and offensive security",
+    "description_md": "The Information Security Architecture course offers a comprehensive and modern journey into the principles, practices, and real-world application of security architecture within complex digital enterp...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/332b1e92-b6bb-4596-ac74-d6802ed11d22",
+    "image_path": "57769428-efac-4b1d-b34f-99e4195fe1da/ce9ab50a-5562-49f2-b173-39e325f1a370",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "88044a79-eec2-45b1-94f2-c9dc301d92f7"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "891750f7-1406-42b7-8787-33f80c865183",
+    "title": "Cyber Threat Intelligence",
+    "subtitle": "Building Intelligence-Driven Defense Programs",
+    "description_md": "## Description\n\nMost security teams are drowning in data but starving for intelligence. They subscribe to feeds, collect IOCs, and stack dashboards — yet when a real threat emerges, they are still rea...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/891750f7-1406-42b7-8787-33f80c865183",
+    "image_path": "67ee33ee-874c-40d1-b9dd-45d78a15b71b/99a6c9fa-d968-47c3-8f22-93138526fbc7",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 0,
+        "max_cents": 100000,
+        "default_cents": 300,
+        "id": "23c0525c-89c8-4d2b-896a-6efcb250ca83"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "ee21d6bc-cafc-4254-97f4-f5f9190c1f32",
+    "title": "Cybersecurity for Kids v1",
+    "subtitle": "Techniques for protecting children against cyber threats",
+    "description_md": "# Cybersecurity for Kids v1\n\n# What this course is\n\n**Cybersecurity for Kids v1** is a practical educational course designed to help parents, educators, caregivers, and child-focused organizations cre...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/ee21d6bc-cafc-4254-97f4-f5f9190c1f32",
+    "image_path": "1758c254-e0d4-4ab9-8881-e1cdd25480a1/aa43e983-408e-4e03-92bb-10633b919bc9",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "9ddcb06e-430a-4cbe-be5d-d89c3625db76"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "a149478c-2838-464d-8c9e-d3f837ca2f77",
+    "title": "Cybersecurity Fundamentals and Insights",
+    "subtitle": "A Complete, Career-Oriented Cybersecurity Program",
+    "description_md": "This comprehensive cybersecurity program is designed to take you from core technical foundations to advanced offensive, defensive, cloud, and AI-driven security practices. Structured across 12 careful...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/a149478c-2838-464d-8c9e-d3f837ca2f77",
+    "image_path": "943d982c-75a1-4a65-8294-bcca522f5a27/aa4b2446-bf9d-4392-923b-e6964ccbe7f7",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "420ff347-5cb8-425e-a3b6-947148cdb1b6"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "f799e8eb-de6f-4022-ab31-763df0554374",
+    "title": "Dark & Deep Web Investigation - Advanced Course",
+    "subtitle": "Law Enforcement & Intelligence-Grade Training Program",
+    "description_md": "## Course Overview\n\nThis course provides an in-depth, hands-on training program for investigators, analysts, and cybersecurity professionals who need to operate effectively in the dark and deep web ec...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/f799e8eb-de6f-4022-ab31-763df0554374",
+    "image_path": "2e3c407f-4102-4707-86cb-40b076702462/ed8735e7-3c53-42e8-b08b-935918f5fd1c",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 100,
+        "max_cents": 100000,
+        "default_cents": 500,
+        "id": "3ed4c312-9634-4934-bcd3-77015eb6995b"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "4e1649ad-baec-49d1-bf8b-4521748e382e",
+    "title": "Data Exfiltration - Red Team Operations",
+    "subtitle": "Data Exfiltration techniques used in professional red team engagements",
+    "description_md": "# Data Exfiltration – Red Team Operations\n\nModern adversaries increasingly rely on sophisticated data exfiltration techniques that combine operational security, covert communications, and layered evas...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/4e1649ad-baec-49d1-bf8b-4521748e382e",
+    "image_path": "4c9f7032-4c68-4e0c-810a-02fb4b37fae0/45f43002-6de2-4939-87f4-931c8851d188",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "b6baa6ee-d73f-464d-8c03-f14bd6749b10"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "054f962a-c5bf-427d-803c-fc6eb6a023f0",
+    "title": "Data Science for Cybersecurity",
+    "subtitle": "From Raw Logs to Detection, Threat Hunting, and Program Strategy",
+    "description_md": "This hands-on course teaches you how to use Data Science as a weapon for cybersecurity. Instead of toy datasets, you’ll work conceptually with real-world security data: authentication and SSO logs, VP...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/054f962a-c5bf-427d-803c-fc6eb6a023f0",
+    "image_path": "6f9ffdad-c340-4062-a239-b3b9987b76e0/3024fbee-79ec-4c03-ba29-cb1b39fc660f",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 0,
+        "max_cents": 200000,
+        "default_cents": 0,
+        "id": "f363c7f8-e26d-4ec3-8e9f-945373495281"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "daf37d95-9151-45ad-8f56-6150c9e21d2c",
+    "title": "Digital Forensics & Incident Investigation",
+    "subtitle": "Professional DFIR Training Program",
+    "description_md": "## Description\n\nDigital Forensics & Incident Investigation is a comprehensive, hands-on course designed to prepare cybersecurity professionals to investigate real-world security incidents with technic...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/daf37d95-9151-45ad-8f56-6150c9e21d2c",
+    "image_path": "5515de7f-1483-4a7e-8a93-c11e2a7955fb/6a68240e-33ff-4beb-9f3f-e43c5e2ba6fa",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "d4641e57-1504-40cb-8e6c-2f5cd4eccc5f"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "59700149-cc10-4573-ae84-f0c69d12adf0",
+    "title": "Digital Protection Introduction",
+    "subtitle": "Combating Cyberbullying and Internet Exposure",
+    "description_md": "# **Digital Protection Introduction**\n\nMaster the foundations of modern digital protection by learning how to safeguard personal information, strengthen online resilience, investigate digital exposure...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/59700149-cc10-4573-ae84-f0c69d12adf0",
+    "image_path": "145800fc-f504-436e-97de-c643b6e2e43c/fce96f21-3384-42fa-97d4-3e453ea5fe51",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "26abe340-2843-402f-a28b-496b83d88298"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "ebcd98be-378b-4ffa-8b19-cdf6e6b8ff1a",
+    "title": "DVWA - Laboratory",
+    "subtitle": "Basic web vulnerability exploration laboratory",
+    "description_md": "## DVWA – Web Application Security Testing Lab\n\nThis laboratory is built around **DVWA (Damn Vulnerable Web Application)**, an intentionally vulnerable web application designed to help students unders...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/ebcd98be-378b-4ffa-8b19-cdf6e6b8ff1a",
+    "image_path": "36a1fc44-3c3e-45d6-94c5-32472467fe04/07edd83e-ec55-45c9-ba79-60d5ec323360",
+    "available_at": null,
+    "purchase_options": [],
+    "price_label": null
+  },
+  {
+    "id": "cea37f01-8683-47df-9f68-0c2e1f27519d",
+    "title": "EDR Internals for Evasion",
+    "subtitle": "Understanding EDR architecture and learning evasion techniques.",
+    "description_md": "An advanced **30-lesson course** focused on **Endpoint Detection and Response (EDR) internals**, analyzed from both **defensive and offensive perspectives**.\n\nThe course is structured into **three pro...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/cea37f01-8683-47df-9f68-0c2e1f27519d",
+    "image_path": "ee129af3-691b-4149-bcb1-a4b889d63054/b1ee5403-53f2-445c-b757-5498aefd0fa9",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 100,
+        "max_cents": 1000000,
+        "default_cents": 250,
+        "id": "7804582b-4460-4b70-b31f-cafb76b93808"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "f62bed5f-f359-4654-87b3-1f3c4316e88a",
+    "title": "Evasion Labs v1",
+    "subtitle": "Basic labs for practicing evasion techniques",
+    "description_md": "**Evasion Labs** is a hands-on offensive security laboratory focused on understanding and bypassing modern endpoint defenses, including **Antivirus (AV), Endpoint Detection and Response (EDR), AMSI, A...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/f62bed5f-f359-4654-87b3-1f3c4316e88a",
+    "image_path": "e30f9fab-7a4d-4676-bd71-4f285cd05015/67c70693-b8ea-4dce-a5ad-c788fac95b04",
+    "available_at": null,
+    "purchase_options": [],
+    "price_label": null
+  },
+  {
+    "id": "e81b4e5c-4ac2-46f1-aeaf-d1eb3ce1f404",
+    "title": "Evasion Techniques Database",
+    "subtitle": "Collection of source codes for you to use as a basis for creating more sophisticated evasion techniques",
+    "description_md": "## What this is\n\nA working catalog of AV and EDR evasion techniques, with source code, written for people who need the actual implementations and not just the names. Every folder is one technique. Eac...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/e81b4e5c-4ac2-46f1-aeaf-d1eb3ce1f404",
+    "image_path": "9c796b3d-e264-4369-b5a2-63e1be50c959/e9fad440-7d42-4889-8538-fabcb75f5bf8",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 1000,
+        "max_cents": 100000,
+        "default_cents": 1000,
+        "id": "6abd4557-dbcf-4978-a967-bf8286a12f7e"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "f0d58a21-f880-4f98-b65d-5bb87bb7f8bd",
+    "title": "Game Anti-Cheat Evasion",
+    "subtitle": "Basic anti-cheat evasion techniques to start your research.",
+    "description_md": "# Game Anti-Cheat Evasion\n\nModern anti-cheat platforms represent some of the most sophisticated software protection systems deployed on Windows today, combining kernel components, behavioral analytics...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/f0d58a21-f880-4f98-b65d-5bb87bb7f8bd",
+    "image_path": "94b745bc-231a-47f1-aa71-191bf7fd9adb/f9a78b4a-0c05-45c8-bd8b-d39da710b3e3",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 0,
+        "max_cents": 100000,
+        "default_cents": 100,
+        "id": "aeadd8fa-1a0c-41b4-9367-3e583956739e"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "4f2783c4-ed18-4671-a1d4-3cb38d974f1f",
+    "title": "Geolocation OSINT Fundamentals",
+    "subtitle": "Turn photos and videos into defensible geolocation intelligence through structured OSINT, GEOINT, metadata analysis, visual reconstruction, and cross-source validation",
+    "description_md": "## What this course is\n\nGeolocation OSINT Fundamentals is an intermediate, hands-on course for security professionals who need to analyze, validate, geolocate, and contextualize images and videos usin...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/4f2783c4-ed18-4671-a1d4-3cb38d974f1f",
+    "image_path": "e5be282a-8880-46a0-ba88-01970bf4d0aa/4b4ddc7a-9ae9-4138-9b0b-deec59c4646d",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 0,
+        "max_cents": 100000,
+        "default_cents": 500,
+        "id": "8c1958a7-cc4a-4c0d-bbf8-3941cdbc36dc"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "641baa68-fef0-4f69-999e-7f541401b69c",
+    "title": "GRC - The Complete Practitioner Course",
+    "subtitle": "Governance, risk and compliance for practitioners",
+    "description_md": "## Governance, Risk and Compliance — The Complete Practitioner Course\n\nMost GRC training teaches you to recite frameworks. This one teaches you to run a programme.\n\nSix modules, 60 lessons. You build ...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/641baa68-fef0-4f69-999e-7f541401b69c",
+    "image_path": "ea7ec012-9626-4617-b41f-6035a880abb2/1e74aa9c-7896-44c3-824f-e6f5a657aa52",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 0,
+        "max_cents": 100000,
+        "default_cents": 500,
+        "id": "c90af952-6f5f-4a10-866f-dcd5af7577cc"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "174e2a59-973b-4ba8-9160-5fab16067045",
+    "title": "Hardware Hacking Introduction",
+    "subtitle": " A Practitioner's Course in Embedded Security, Side-Channel Analysis, and RF Exploitation",
+    "description_md": "## About the Course\n\nA complete and practical course on Hardware Hacking, covering everything from electronics fundamentals to advanced exploitation techniques in embedded systems. The course is divid...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/174e2a59-973b-4ba8-9160-5fab16067045",
+    "image_path": "1eb57ec7-ae7a-4f24-9abc-8fa11483df71/bc63f887-bc44-4239-abe3-1a76850176b9",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 0,
+        "max_cents": 100000,
+        "default_cents": 200,
+        "id": "b6b74b95-83a1-4686-8c34-36cbc28b6030"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "449c236b-55fd-4abc-9207-e83fa46154c2",
+    "title": "Healthcare Hacking Introduction",
+    "subtitle": "Hacking in Healthcare: Offensive and Defensive Security Strategies for Medical Environments",
+    "description_md": "**\"Hacking in Healthcare: Offensive and Defensive Security Strategies for Medical Environments\"** is a highly technical course designed for cybersecurity professionals, red teamers, penetration tester...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/449c236b-55fd-4abc-9207-e83fa46154c2",
+    "image_path": "08500f44-7c39-4ff0-8753-8f2ff474db8d/a3fef7ad-64ec-490d-9ddb-94d3abbcdf3c",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "7d576f29-4b16-4d70-b6c4-25344a408fba"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "307b0277-afd8-4260-bec3-49bc145c9d6d",
+    "title": "ICS/Scada Cybersecurity",
+    "subtitle": "Protecting Industrial Systems, Processes, and Critical Infrastructure from Cyber Threats\n",
+    "description_md": "# ICS/SCADA Cybersecurity\n\nIndustrial Control Systems (ICS), SCADA, and Operational Technology (OT) environments present unique cybersecurity challenges where safety, availability, and operational con...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/307b0277-afd8-4260-bec3-49bc145c9d6d",
+    "image_path": "a75c41eb-a725-4834-b188-da837cbbff88/a4434687-ebfe-4bcb-8b37-060782aa020b",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "fe6e627f-12ab-4ce8-a7b3-773038b3f650"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "cc6d516e-b2b2-4950-827e-1650116b4bed",
+    "title": "Initial Access & Adversary Simulation",
+    "subtitle": "Understanding, Simulating and Defending Against Modern Initial Access Operations",
+    "description_md": "## Description\n\nThis advanced training program provides a comprehensive exploration of modern initial access techniques, adversary tradecraft, and Red Team operational security. Designed for security ...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/cc6d516e-b2b2-4950-827e-1650116b4bed",
+    "image_path": "d443da69-2ed6-4075-aaf8-264cf534deda/38f2f68e-f3a7-4323-a942-662c3e7b064e",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 0,
+        "max_cents": 100000,
+        "default_cents": 2000,
+        "id": "472a5d12-d485-4424-af1a-ef36c2a2d500"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "d224821a-5738-4d5e-93ff-4baa9bc3ca93",
+    "title": "Intelligence & Counterintelligence Introduction",
+    "subtitle": "Basic concepts of Intelligence and Counterintelligence ",
+    "description_md": "**Intelligence & Counterintelligence Introduction** is a **theory-driven** course on how intelligence and counterintelligence underpin modern cybersecurity. Across five modules, you’ll study doctrine ...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/d224821a-5738-4d5e-93ff-4baa9bc3ca93",
+    "image_path": "a56478df-23c7-44d5-9443-e989735f0182/d967d587-dc1a-4619-ae19-0ba769a3741f",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "16e2257d-a64d-407b-8785-f17fd2916693"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "65983f17-b9f4-48db-b048-e8b1fef47411",
+    "title": "Intermediate Malware Analysis Course",
+    "subtitle": "From Static & Dynamic Analysis to Operational Detections",
+    "description_md": "**You’ll learn to**\n\n* Triage unknown binaries (PE/ELF), spot packers, and recover payloads.\n* Unpack and deobfuscate code, rebuild control flow, and normalize functions.\n* Reverse C/C++ patterns (vta...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/65983f17-b9f4-48db-b048-e8b1fef47411",
+    "image_path": "c70481ef-a140-44f3-bd5b-6dd976476392/4eb69646-363d-44e9-a660-2af524dc1284",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "36166460-1d91-4f98-8676-bb3e001d40fb"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "2477768b-dbbd-4576-aa4a-aa178f7cd852",
+    "title": "Investigative OSINT for Journalists",
+    "subtitle": "Master international open-source investigation with defensible methodology, verifiable evidence, source protection, and the ability to turn scattered signals into publishable reporting",
+    "description_md": "# Investigative OSINT for Journalists\n\n**Master international open-source investigation with defensible methodology, verifiable evidence, source protection, and the ability to turn scattered signals i...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/2477768b-dbbd-4576-aa4a-aa178f7cd852",
+    "image_path": "c9ed9c75-911b-437b-98bb-648671b74759/16b47718-97aa-4c60-bb09-ef11498866c6",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 1000,
+        "max_cents": 1000000,
+        "default_cents": 1000,
+        "id": "83e6a540-afc7-49d8-ae04-d31cbba08c92"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "3f45cee1-2597-42b4-b32c-16931dc0196e",
+    "title": "iOS & MacOS Internals",
+    "subtitle": "Kernel, Memory & System Architecture Deep Dive",
+    "description_md": "## Course Description\n\n**iOS & macOS Internals** is a deep technical course designed to teach how Apple operating systems work from the inside.\n\nStudents will explore Darwin and the XNU kernel, the bo...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/3f45cee1-2597-42b4-b32c-16931dc0196e",
+    "image_path": "03a1d6df-7faa-4b57-8c82-c08aff23b6ba/ad0e19b7-4031-4b6e-86da-6824c64f4b6f",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 100,
+        "max_cents": 100000,
+        "default_cents": 500,
+        "id": "51c2b700-1827-4c16-82a8-5159ed576f9a"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "3af647ef-caeb-410d-baf8-047bce9a41bc",
+    "title": "Juiceshop - Laboratory",
+    "subtitle": "OWASP Juice Shop is probably the most modern and sophisticated insecure web application! It can be used in security trainings, awareness demos, CTFs and as a guinea pig for security tools! Juice Shop encompasses vulnerabilities from the entire OWASP Top Ten along with many other security flaws found in real-world applications!",
+    "description_md": "OWASP Juice Shop is an intentionally vulnerable web application created by the OWASP Foundation and widely used for hands-on training in modern web security. It simulates a real online store (SPA + RE...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/3af647ef-caeb-410d-baf8-047bce9a41bc",
+    "image_path": "a66d4fe4-bd0f-4432-b20e-1894d0f0a6c3/f32dd95a-55cb-4119-bda1-4f82059c67f5",
+    "available_at": null,
+    "purchase_options": [],
+    "price_label": null
+  },
+  {
+    "id": "87e9c426-abd0-48f6-9fef-0dd162170de7",
+    "title": "Linux Engineering: From First Command to Kernel Developer ",
+    "subtitle": "From Beginner to Kernel Developer & System Architect",
+    "description_md": "# Linux Engineering: From First Command to Kernel Developer\n\n## From Beginner to Kernel Developer & System Architect\n\n---\n\nMaster Linux from the ground up, from your first terminal command to writing ...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/87e9c426-abd0-48f6-9fef-0dd162170de7",
+    "image_path": "3564d662-742b-4d90-ade9-c78f3b8d9b2a/4b4803dd-587a-4ccf-983d-e3c7a445d1e5",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 0,
+        "max_cents": 100000,
+        "default_cents": 500,
+        "id": "a18432f9-af75-4e8a-abf5-3353380a3b25"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "0ba90bb9-0e5b-4cd7-abe1-50693f595f05",
+    "title": "Linux Kernel Programming and Rootkits",
+    "subtitle": "Understanding the Architecture and Extensibility of the Linux Kernel",
+    "description_md": "## Description\n\nThis course is an in-depth technical training on **Linux kernel programming**, with a strong focus on **security, detection, and system hardening**.\n\nYou will learn how the Linux kerne...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/0ba90bb9-0e5b-4cd7-abe1-50693f595f05",
+    "image_path": "c33e6981-29ca-4671-a714-6a0162dfbd7f/8e013b37-35e8-49f6-8f02-7722349e9452",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 0,
+        "max_cents": 100000,
+        "default_cents": 500,
+        "id": "2f53e4e9-1c5f-4abf-b74b-3f2017f36fbd"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "e8357f2e-4e2f-4c0b-ad24-76b1204fb43d",
+    "title": "Linux Privilege Escalation Lab #1",
+    "subtitle": "Breaking Trust Boundaries: A Comprehensive Linux Privilege Escalation",
+    "description_md": "## Lab Description – Linux Privilege Escalation\n\nThis lab provides a comprehensive, hands-on exploration of Linux privilege escalation techniques within a controlled training environment. Participants...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/e8357f2e-4e2f-4c0b-ad24-76b1204fb43d",
+    "image_path": "dcd18ac3-6210-406c-9cf5-124e0950b04c/99276625-e991-40cc-8c64-fd35fd8617e9",
+    "available_at": null,
+    "purchase_options": [],
+    "price_label": null
+  },
+  {
+    "id": "27288545-5883-4f49-af73-0004ab91bfe0",
+    "title": "Living Off The Land Mastery",
+    "subtitle": "Malwareless Tradecraft",
+    "description_md": "## Course Overview\n\n**Living Off The Land Mastery** is an advanced, professional cybersecurity course engineered for operators who want to master the art of **malwareless adversary tradecraft**. In a ...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/27288545-5883-4f49-af73-0004ab91bfe0",
+    "image_path": "aed5f809-4f72-4913-8460-86ff87ac4796/104f3e61-f02d-4057-8865-2a44e4fdd3fe",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 200,
+        "max_cents": 100000,
+        "default_cents": 500,
+        "id": "46e2e7cf-025a-49d0-a365-d0d47c639734"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "b9079d8b-a012-4424-ab18-2180a9db9b51",
+    "title": "Malware Analysis Professional",
+    "subtitle": "Advanced Malware Analysis, Reverse Engineering, and Threat Intelligence Training for Security Professionals",
+    "description_md": "# Malware Analysis Professional\n\n## Course Overview\n\nThis is an advanced, comprehensive malware analysis course designed for experienced security professionals, red teamers, and reverse engineers. It ...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/b9079d8b-a012-4424-ab18-2180a9db9b51",
+    "image_path": "5e4a0747-a294-47b8-af3a-3924420f3571/13232bbb-8614-46a7-9df0-c703fb336cad",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 500,
+        "max_cents": 100000,
+        "default_cents": 700,
+        "id": "9fa5beeb-1663-45d8-bd28-061bf85ce9d1"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "d710b390-494d-4bc1-9999-62998f860aea",
+    "title": "Master in Prompt Engineering and AI",
+    "subtitle": "Complete Professional Course - From Zero to Mastery",
+    "description_md": "### Course Overview\n\nWelcome to **Master in Prompt Engineering and AI** — the most comprehensive course designed to transform you into a true AI and Prompt Engineering expert. Across **10 modules** an...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/d710b390-494d-4bc1-9999-62998f860aea",
+    "image_path": "91179541-c4cd-49dc-a203-98d02f9eb64e/3747d68c-b7c5-43b2-9e50-7ea57a09f754",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "bd136759-b44c-4825-be8e-2ed7b9cde721"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "a0306edd-5ee9-4485-a7c9-0c4d7ee17bc7",
+    "title": "Mastering IDA Pro: A Complete Reverse Engineering Course",
+    "subtitle": "From Bytes to Understanding ",
+    "description_md": "## Course Overview\n\nThis course takes you from zero to advanced proficiency with IDA Pro and IDA Free — the industry-standard binary analysis platform. Every module is built around real-world scenario...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/a0306edd-5ee9-4485-a7c9-0c4d7ee17bc7",
+    "image_path": "ce35c652-b617-4dc7-9ff5-e8b869c36a64/5f6b5085-85cb-4c96-8dbf-3abd4247f9cc",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 300,
+        "max_cents": 100000,
+        "default_cents": 1000,
+        "id": "70133f0e-f6f1-4140-b246-ab4e691843ec"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "c495090f-6bb5-4dd9-aad0-aedaa2ff3646",
+    "title": "Mastering Pentest & Red Team Report Writing",
+    "subtitle": "Learn how to build more robust reports",
+    "description_md": "## Course Overview\n\nThis course is designed for penetration testers, red team operators, and security consultants who want to elevate their reporting from basic vulnerability lists to compelling, acti...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/c495090f-6bb5-4dd9-aad0-aedaa2ff3646",
+    "image_path": "833b1972-939d-4727-a658-a91ac3131ccb/f13ab952-f981-493a-97ae-f9ce18f32edd",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "5cd71a15-0b03-488a-ab10-e9954a1da489"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "cca1ed93-a4bc-49fa-9595-0d6069abc0ac",
+    "title": "Medical Device Penetration Testing",
+    "subtitle": "From Fundamentals to Advanced Exploitation of Connected Medical Systems",
+    "description_md": "# Medical Device Penetration Testing — Professional Course\n\n> **From Fundamentals to Advanced Exploitation of Connected Medical Systems**\n\n---\n\n## Course Overview\n\nThis course provides comprehensive, ...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/cca1ed93-a4bc-49fa-9595-0d6069abc0ac",
+    "image_path": "9235c68d-1db9-4bc0-b293-8de0fa53dbb1/1e2fbc63-529f-4125-9b84-8cec8cb0cd47",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "2a6b84b7-a657-43ea-8a92-f9922c2172d5"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "755eace7-198d-45aa-83d2-ab9747bb84a7",
+    "title": "Offensive Agent AI Course",
+    "subtitle": "Basic concepts of using AI Agents for pentesting on Kali Linux",
+    "description_md": "This course provides a comprehensive, hands-on exploration of **modern offensive security techniques enhanced by AI-driven automation**. Students learn how to combine traditional penetration testing m...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/755eace7-198d-45aa-83d2-ab9747bb84a7",
+    "image_path": "d04c1927-ded8-455e-84c5-ae654555b690/32a08edd-60bd-4b98-afce-792e2c47b6b9",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "8d613a93-f327-47fc-8e7e-86eeed07e9a9"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "360213a6-179d-4409-b74b-109653fd88e7",
+    "title": "Offensive Identity Access Management (IAM) Exploitation",
+    "subtitle": "Reconnaissance and credential attacks to federation exploitation, cloud IAM abuse, and post-exploitation persistence.\n",
+    "description_md": "## Course Overview\n\n**IAM Exploitation** is an advanced, hands-on course designed for red team operators, penetration testers, and offensive security professionals. This course provides deep technical...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/360213a6-179d-4409-b74b-109653fd88e7",
+    "image_path": "9816d008-dd73-4949-a9f6-98aed057a2f3/cb8faab7-4b15-4604-8498-63c60a16dc9b",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 0,
+        "max_cents": 100000,
+        "default_cents": 200,
+        "id": "b75a72f7-93ea-4cb7-a4df-576bd6a395a5"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "3c28ed5b-c23e-47d5-948e-863d55266220",
+    "title": "Offensive Memory Exploitation",
+    "subtitle": "Simple techniques for exploring memory",
+    "description_md": "## Description\n\nA deep, practical course covering everything from how DRAM works at the electrical level to advanced memory tradecraft, Windows internals, and the techniques used to analyze, manipulat...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/3c28ed5b-c23e-47d5-948e-863d55266220",
+    "image_path": "95f91681-f574-44c0-96e8-6fabea4e6bbc/a19efade-0547-4648-b276-3fe1a8279967",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "463b9747-f368-4136-9ec9-3e3f0865adba"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "fffab61a-3340-42a5-bf0d-9cce2923a6fb",
+    "title": "Offensive Security Development Professional",
+    "subtitle": "Practical Skills in Malware Development, Evasion, and Red Team Tooling",
+    "description_md": "**Offensive Development v2** is an advanced, hands-on training program designed for cybersecurity professionals who want to master the engineering side of offensive security. Built for Red Team operat...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/fffab61a-3340-42a5-bf0d-9cce2923a6fb",
+    "image_path": "44416a88-fcd2-476e-8afb-f9cdafd33784/b7b76205-0739-4405-9691-babaaba588f7",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 200,
+        "max_cents": 100000,
+        "default_cents": 800,
+        "id": "ed5c45b5-9dde-44c2-a961-d69317e94efd"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "1e27ecba-3f18-4250-85ab-fb2e0b8877d0",
+    "title": "Offensive Smart Contracts & Web3 Security",
+    "subtitle": "From Token Internals to Advanced DeFi Exploitation",
+    "description_md": "An advanced **smart contract security and blockchain exploitation** course focused on the Ethereum ecosystem. It covers everything from **EVM internals, ERC20/ERC721 standards, and blockchain architec...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/1e27ecba-3f18-4250-85ab-fb2e0b8877d0",
+    "image_path": "e5b4923b-b923-4615-b217-75a6d99cfc71/ec9d6d3f-f1bd-4a98-bea8-40aecce7d36b",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 0,
+        "max_cents": 100000,
+        "default_cents": 100,
+        "id": "ef0efa38-df18-4b4f-8089-3122859d1ec1"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "82f0a60e-e6a4-49a0-8e72-67ac9147a6a2",
+    "title": "OSINT for Discord Introduction",
+    "subtitle": "OSINT, digital forensics, and online-harm investigation",
+    "description_md": "# Discord OSINT Course — Description\n\nOSINT, digital forensics, and online-harm investigation\n\n## Course objective\n\nEquip investigators to conduct **ethical, legally defensible, and technically rigoro...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/82f0a60e-e6a4-49a0-8e72-67ac9147a6a2",
+    "image_path": "549ea4c3-7a0b-466b-aeb8-3a65b714d729/78912702-c844-493e-a1b5-09e2e0d58dbb",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 0,
+        "max_cents": 100000,
+        "default_cents": 100,
+        "id": "7ce41dc9-2231-4888-9bae-61a02ebcea40"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "1f94a115-80be-4651-bce6-30c48d60a381",
+    "title": "Penetration Testing with Kali Linux 1.0",
+    "subtitle": "From Linux fundamentals to AI red teaming, exploit development, and the OSCP path.",
+    "description_md": "# Penetration Testing with Kali Linux 1.0\n\n**The complete offensive security program by Red Team Leaders — from Linux fundamentals through web, cloud, mobile, Active Directory, exploit development, ev...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/1f94a115-80be-4651-bce6-30c48d60a381",
+    "image_path": "2677dafb-a58e-4d13-9324-6acac0bb40f1/35ae9d5b-c8cb-455f-a90b-0f05950e0e3d",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 1200,
+        "max_cents": 100000,
+        "default_cents": 1500,
+        "id": "0a8f947d-8f11-4713-a16d-526ae2f85031"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "993a54bf-293b-4a9b-a0f2-d9023f1a460c",
+    "title": "Pivoting Challenge #1",
+    "subtitle": "Simple exploration and pivoting challenge",
+    "description_md": "## Scenario\n\n**Acme Corp** runs a web application behind a gateway server. A misconfigured Apache Tomcat instance\nis exposed to the internet. Behind it, an internal development server holds sensitive ...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/993a54bf-293b-4a9b-a0f2-d9023f1a460c",
+    "image_path": "c60515ff-24a2-4603-b40c-c676a5f97ea3/6bbfbf2a-5fae-490a-8f2f-b7eeb8762987",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "paid",
+        "price_cents": 300,
+        "discount_price_cents": null,
+        "external_url": null,
+        "id": "69ed7b76-1ca8-400e-9c36-7cfe8c8b73e0"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "bca58adb-d89b-4515-9c27-967c6c27f708",
+    "title": "Pivoting Labs",
+    "subtitle": "Laboratories for you to practice exploration and some pivoting techniques",
+    "description_md": "**Pivoting Labs** is a technology laboratory focused exclusively on Windows and Linux environments, designed to build, test, and integrate hybrid infrastructures in a controlled setting.\n\nThe lab incl...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/bca58adb-d89b-4515-9c27-967c6c27f708",
+    "image_path": "e7cd39a2-17a6-403c-b405-dd386cfe3cb6/85c55ae0-7605-41d6-8185-4c11168b23cf",
+    "available_at": null,
+    "purchase_options": [],
+    "price_label": null
+  },
+  {
+    "id": "95910814-62ac-416b-ad90-36fc58b67ca2",
+    "title": "Process Injection Techniques in Windows",
+    "subtitle": "Learn the main injection molding techniques",
+    "description_md": "## Process Injection Techniques in Windows\n\nMaster one of the most advanced areas of Windows offensive security: **process injection**.\n\n**Process Injection Techniques in Windows** is an advanced trai...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/95910814-62ac-416b-ad90-36fc58b67ca2",
+    "image_path": "fb78b449-de49-45c4-8493-9e2610937ff4/0116e100-f7e7-4f96-b401-da774614c991",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 500,
+        "max_cents": 100000,
+        "default_cents": 1000,
+        "id": "0fb903d9-d87e-4ab7-a25d-5abb8d8cb7c6"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "5253a879-8362-43a0-b9a9-184b7b38229c",
+    "title": "Purple Team Labs v1",
+    "subtitle": "Purple Team's Lab for you to practice",
+    "description_md": "# Purple Team Lab — Enterprise SOC Training Environment\n\n**Build real detection skills. Not just theory.**\n\nPurple Team Lab is a fully integrated, production-grade **Security Operations Center (SOC) t...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/5253a879-8362-43a0-b9a9-184b7b38229c",
+    "image_path": "5151f482-aeec-4af5-af43-6a8b5029dace/9c7bf909-7ca9-4eb9-b187-d3c1a9bc3792",
+    "available_at": null,
+    "purchase_options": [],
+    "price_label": null
+  },
+  {
+    "id": "151a8705-1755-46cb-ac95-7a313af39da4",
+    "title": "Python Coding with Minecraft for Kids",
+    "subtitle": "Learn Python basics by making cool things happen inside Minecraft",
+    "description_md": "This introductory course teaches core programming concepts in Python through the engaging world of Minecraft. Using a modded Minecraft server and the RaspberryJuice API, students will write Python scr...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/151a8705-1755-46cb-ac95-7a313af39da4",
+    "image_path": "a9f0a8a9-f031-4b17-a5eb-03aba352be39/f2558ff9-b06a-4c42-b004-76278c689078",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "461bbc60-8a2e-4ccb-9c58-a424d4afc0ab"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "a258b3fd-ea93-42c0-a3c5-3e713674377f",
+    "title": "Red Team AdaptixC2 Operations",
+    "subtitle": "Learn the basics of red team operations using AdaptixC2.",
+    "description_md": "# Red Team AdaptixC2 Operations\n\nHands-on lab where you learn to operate a real C2 framework from scratch. You'll set up **AdaptixC2** with the **Kharon agent**, configure traffic redirectors, comprom...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/a258b3fd-ea93-42c0-a3c5-3e713674377f",
+    "image_path": "7033f8cf-bfa7-4915-8a15-5d499b0b5f82/f61cc776-a301-4149-bac7-daefe6206040",
+    "available_at": null,
+    "purchase_options": [],
+    "price_label": null
+  },
+  {
+    "id": "471a25db-3654-4171-9154-41102b3d4a40",
+    "title": "Red Team Development - Laboratory",
+    "subtitle": "Develop your artifacts for your Red Team operations.",
+    "description_md": "## Red Team Development – Laboratory\n\nThe **Red Team Development Laboratory** is a hands-on, offensive security training environment focused on **building real Red Team tooling from scratch**.\n\nThis l...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/471a25db-3654-4171-9154-41102b3d4a40",
+    "image_path": "9ab6bc04-66db-4647-a78d-3d6a44f0f558/f7a7c2e9-fe7e-43b1-8038-6bea6edf5657",
+    "available_at": null,
+    "purchase_options": [],
+    "price_label": null
+  },
+  {
+    "id": "ae070d6d-2654-4b3e-890c-992c5d23db1e",
+    "title": "Red Team Leaders - Books",
+    "subtitle": "The Long Career in Cybersecurity",
+    "description_md": "# Welcome Red Team Leaders Books\n\nHere you will find the books created by Red Team Leaders and its founder, https://www.linkedin.com/in/joas-antonio-dos-santos/\n\nI hope you enjoy them!",
+    "officialUrl": "https://courses.redteamleaders.com/courses/ae070d6d-2654-4b3e-890c-992c5d23db1e",
+    "image_path": "ed7dd821-207d-4ce9-a088-91f904ef8692/68fdc8ec-eac2-4cfb-8bf1-33ebfab76afa",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "a31faf83-5aff-4bd6-b5d8-6e6dfef074bf"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "c7072628-c5db-4d88-8d35-d841a435cd4e",
+    "title": "Red Team Ops Platform",
+    "subtitle": "Platforms to support your red team operation!",
+    "description_md": "# RTL – Red Team Ops Platform\n\nRTL – Red Team Ops Platform is a centralized offensive security environment designed to support structured adversary simulation, testing, and security validation.\n\nThe p...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/c7072628-c5db-4d88-8d35-d841a435cd4e",
+    "image_path": "916e6b8c-5642-4e59-baad-d13c36443eb4/d998415d-1cea-4991-8cd0-cfa2d84f7624",
+    "available_at": null,
+    "purchase_options": [],
+    "price_label": null
+  },
+  {
+    "id": "70f39f44-287f-4b33-9feb-f1bdc058d447",
+    "title": "Reverse Engineering for Beginners",
+    "subtitle": "Basic and introductory reverse engineering techniques",
+    "description_md": "# Reverse Engineering for Beginners\n\nEver stared at a compiled binary and wondered what secrets it holds? This course takes you from **absolute beginner** to **confident reverse engineer**, teaching y...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/70f39f44-287f-4b33-9feb-f1bdc058d447",
+    "image_path": "9cb005b1-8839-47cf-84eb-773f82f56c98/663a04a0-dde4-43a2-89d4-ced906cd1b57",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "b5687397-fada-4132-ac52-290ebfcb22e4"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "7f5a61d9-e1aa-4910-9355-50a13da38239",
+    "title": "Reverse Engineering Labs",
+    "subtitle": "Train your reverse engineering skills!",
+    "description_md": "# Reverse Engineering Challenge Lab\n\nA 15-challenge journey from basic disassembly to virtualized code devirtualization, anti-debug bypass, malware triage, and binary exploitation. Every challenge shi...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/7f5a61d9-e1aa-4910-9355-50a13da38239",
+    "image_path": "15f7e280-1d4e-4a09-befb-1f9901943f97/e23ff517-abba-40c1-bc20-bed7bd01513f",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "paid",
+        "price_cents": 500,
+        "discount_price_cents": null,
+        "external_url": null,
+        "id": "e0fa72fa-2f14-4c6a-bb59-98ae955d267a"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "055952ec-7eee-47fc-903a-81f0cf3798ef",
+    "title": "RTL Pro AD Lab v1",
+    "subtitle": "From Initial Access to Full Domain Compromise Using Real-World AD Weaknesses",
+    "description_md": "## **RTL Pro AD Lab 1 — Active Directory Exploitation**\n\n**RTL Pro AD Lab 1** is an advanced, hands-on Active Directory laboratory designed to simulate realistic enterprise environments and real-world...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/055952ec-7eee-47fc-903a-81f0cf3798ef",
+    "image_path": "fe61fc9f-5f47-406b-bcdb-0cfe0cbe3a35/52c30894-a367-4a21-99b3-bb877c6eef06",
+    "available_at": null,
+    "purchase_options": [],
+    "price_label": null
+  },
+  {
+    "id": "01b9b7a5-6c51-4d9b-bad1-2831da271171",
+    "title": "Rust Offensive Development",
+    "subtitle": "From Windows Internals to Full RAT/C2 Infrastructure with Rust",
+    "description_md": "# Rust Offensive Development\n\n## From Windows Internals to Full RAT/C2 Infrastructure\n\nMaster the art of building offensive security tools using the Rust programming language. This course takes you fr...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/01b9b7a5-6c51-4d9b-bad1-2831da271171",
+    "image_path": "3a826ce5-3683-43a9-890c-4399d3b234c0/9b1e8881-f1a5-4c2d-9f62-c3eeb69a8d08",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 500,
+        "max_cents": 100000,
+        "default_cents": 1000,
+        "id": "58c67931-0ce7-408d-92f4-081a90110dac"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "5107074a-e537-417e-8849-9fef6b80054c",
+    "title": "Rust Programming Mastery",
+    "subtitle": "From Basics to Systems Programming",
+    "description_md": "# Rust Mastery: From Basics to Systems Programming\n\n> Learn the language that **rewrites the rules** — memory safety without a garbage collector,\n> fearless concurrency enforced by the type system, an...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/5107074a-e537-417e-8849-9fef6b80054c",
+    "image_path": "9bd35c00-84ff-4246-a232-210a58e0c135/d004cf62-8824-4cdc-b032-ac333c6c73f0",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "ce4260d3-4fd5-454e-af07-fe7e981c1073"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "be0e8220-e268-4c5a-946a-556b114dc4a7",
+    "title": "Security Code Review and White Box Testing",
+    "subtitle": "From source code analysis to secure application design",
+    "description_md": "### Course Description\n\nThis course provides a comprehensive introduction to **Security Code Review and White Box Testing**, focusing on identifying security weaknesses directly from the source code. ...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/be0e8220-e268-4c5a-946a-556b114dc4a7",
+    "image_path": "4d70f388-ca16-4bfe-a97e-3a2dd9f01d06/b2f6f059-c823-4c34-b4a2-33bfeab66756",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 0,
+        "max_cents": 1000000,
+        "default_cents": 200,
+        "id": "d552f7c0-05ad-4eb9-bc5f-b7592554934b"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "7f236f44-ff3a-4a18-b0fd-84b69607ca93",
+    "title": "Spear-Phishing and OpSec Techniques",
+    "subtitle": "From Initial Access to Long-Term Persistence: Advanced Tradecraft in Spear-Phishing and Operator OpSec",
+    "description_md": "This course provides a **deep technical exploration of spear-phishing tradecraft and operator operational security (OpSec)**, following the entire lifecycle of a modern phishing campaign.\n\nStudents wi...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/7f236f44-ff3a-4a18-b0fd-84b69607ca93",
+    "image_path": "c14b2eb7-47e3-473b-aba5-ed923c28682d/b29f08a1-fe77-4e7d-8260-2d0d0981c929",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 0,
+        "max_cents": 10000,
+        "default_cents": 200,
+        "id": "3759c1c9-ae09-4aca-b985-6bc9b198c2bb"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "cd2b68bb-f207-4244-a2d3-2cecf6c98451",
+    "title": "SQL Injection - Challenge 1",
+    "subtitle": "From SQL Injection to Root Access: Chaining Web Vulnerabilities to Steal the Root SSH Key",
+    "description_md": "**Description**\n\nThis laboratory provides a hands-on **SQL Injection challenge** where students must exploit a vulnerable web application to gain unauthorized access and progress through a controlled ...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/cd2b68bb-f207-4244-a2d3-2cecf6c98451",
+    "image_path": "60f2eb1e-7511-4358-9a9e-3f0ab3e5a77c/acf55404-be67-4224-be4c-9018c4f417bf",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 0,
+        "max_cents": 5000000,
+        "default_cents": 100,
+        "id": "8c0118ba-83ed-43a0-9c2d-060c9d8dcaa2"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "4e2c0892-262c-426e-b3e0-98b834aa32cf",
+    "title": "System One Security: Building Typed AI Decision Layers with JEV and Laya",
+    "subtitle": "From Free-Form Judgment to Auditable, Scope-Enforced Autonomous Pentesting",
+    "description_md": "# System One Security: Building Typed AI Decision Layers with JEV and Laya\n\n### *From Free-Form Judgment to Auditable, Scope-Enforced Autonomous Pentesting*\n\n---\n\n## What this course is\n\nMost security...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/4e2c0892-262c-426e-b3e0-98b834aa32cf",
+    "image_path": "753b4c14-bf8f-4bc9-8e4b-a94590b64625/9622949f-019b-496c-afe1-3e13ced44f6a",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 0,
+        "max_cents": 100000,
+        "default_cents": 500,
+        "id": "22ae7b5e-3484-4f4d-bda1-42722a0fde71"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "f53245b2-2ef3-45bb-bddd-ddceaf2fe038",
+    "title": "The Metasploit Masterclass",
+    "subtitle": "From Zero to Professional",
+    "description_md": "# The Metasploit Masterclass — From Zero to Professional\n\n> A deep, practical, and advanced course covering the Metasploit Framework end-to-end:\n> reconnaissance, exploitation, post-exploitation, pivo...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/f53245b2-2ef3-45bb-bddd-ddceaf2fe038",
+    "image_path": "27ecef33-ff9c-4385-92a5-c96f5247d9c3/56be51f8-9d39-40da-87c1-b136c8d06196",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 50,
+        "max_cents": 100000,
+        "default_cents": 300,
+        "id": "0336d429-a382-4380-94de-d7014abdc3a4"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "97fd957c-34c8-4d19-bffb-dda3b88ae5f3",
+    "title": "Web Application Security Challenge 1",
+    "subtitle": "Application and web server security challenges",
+    "description_md": "**Web Application Security Challenge 1 (WASC-1)** is a hands-on, scenario-driven training focused on **real-world web application security**.  \n\nInstead of isolated labs or artificial puzzles, student...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/97fd957c-34c8-4d19-bffb-dda3b88ae5f3",
+    "image_path": "f5d962d3-fc44-4d6c-864b-7085b4230ea9/960024e3-fc88-4926-b1ea-5b648e2f70fe",
+    "available_at": null,
+    "purchase_options": [],
+    "price_label": null
+  },
+  {
+    "id": "42626126-883a-4a29-838c-3d960f871c5c",
+    "title": "Web Browser for Hacking",
+    "subtitle": "Chromium-based vulnerability exploitation",
+    "description_md": "# Web Browser for Hacking\n\nMaster Chromium internals, offensive browser analysis, DevTools-driven security research, browser protocol abuse, extension development, and advanced client-side exploitatio...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/42626126-883a-4a29-838c-3d960f871c5c",
+    "image_path": "e79d5f5c-181d-4a90-bedd-58d3320eabf3/55af298a-dc0d-446c-8e61-4633ff063782",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 0,
+        "max_cents": 100000,
+        "default_cents": 0,
+        "id": "db6884db-07eb-4832-8fdb-f862ebd7d22d"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "48e78a8e-8471-4573-9353-b9e6d37eb7f9",
+    "title": "Windows Drivers and Kernel Exploitation Professional",
+    "subtitle": "A complete offensive security course covering Bring Your Own Vulnerable Driver (BYOVD) attacks, Windows kernel exploitation, driver reverse engineering, and advanced red team techniques.",
+    "description_md": "# Course Overview\n\nThis is a comprehensive, elite-level offensive security training program covering the full attack lifecycle of **Bring Your Own Vulnerable Driver (BYOVD)** techniques, Windows kerne...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/48e78a8e-8471-4573-9353-b9e6d37eb7f9",
+    "image_path": "ba24b200-1dec-4005-a851-a1dda1703344/9d8a1d07-5032-42d2-90e2-d7cd60b8c6f8",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 800,
+        "max_cents": 100000,
+        "default_cents": 1000,
+        "id": "36e2e89e-50c8-449d-94b3-33ef622c7d44"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "83cffcdc-ad4e-4970-a664-36af558ca253",
+    "title": "Windows Internals and API v1",
+    "subtitle": "The unfiltered NT: structures, syscalls, hooks, and the layers between",
+    "description_md": "# Windows Internals & API v1\n\n**A deep, ground-up walkthrough of the Windows NT kernel, its API surface, and the mechanisms that drive every running process — for engineers who refuse to stop at the d...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/83cffcdc-ad4e-4970-a664-36af558ca253",
+    "image_path": "3488bfd3-025e-48c5-b776-3061f77a5f05/fbce0fa4-3242-4707-9685-427b61e46a52",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 0,
+        "max_cents": 100000,
+        "default_cents": 500,
+        "id": "44d78b7d-58e0-441e-b2cf-6d454926f885"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "918ba607-d512-409f-bdf2-f2f8f9e800e3",
+    "title": "Windows Kernel Debugging with WinDbg",
+    "subtitle": "Zero-to-kernel WinDbg: build Windows 11/10/7 labs, reverse engineer Rust binaries, defeat anti-debugging, analyze drivers and pool, and root-cause BSODs.",
+    "description_md": "# Windows Kernel Debugging with WinDbg\n\n**Master the debugger that Microsoft's own engineers use — from your first `.reload` to decoding a live BSOD down to the offending driver and the exact line tha...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/918ba607-d512-409f-bdf2-f2f8f9e800e3",
+    "image_path": "04af0265-ccc0-4ef2-b3c1-274929ada6e4/99bf8161-c30c-4da3-a821-72287499769e",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "paid",
+        "price_cents": 1000,
+        "discount_price_cents": null,
+        "external_url": null,
+        "id": "745e3ab9-55dc-4a6b-983f-3b8c595495ac"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "49ad8de7-48fb-463b-ae3c-1517762e027e",
+    "title": "Windows Kernel Exploitation Introduction v1",
+    "subtitle": "Techniques, Mitigations, and Responsible Practice for Windows Kernel Research\n",
+    "description_md": "# Windows Kernel Exploitation Introduction v1\n\nMaster Windows Internals, Reverse Engineering, and Modern Kernel Exploitation\n\nDevelop the knowledge required to understand, analyze, and research vulner...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/49ad8de7-48fb-463b-ae3c-1517762e027e",
+    "image_path": "69e7984c-a1ce-48e5-b7fc-bd2a2aa6f189/8885bf6f-a9d5-4215-ae8a-899eebf525af",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 100,
+        "max_cents": 10000000,
+        "default_cents": 300,
+        "id": "326e3731-6153-47ff-a3f5-d15135c49124"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "fad0dc14-31ee-401e-a054-e7f90c44e4a7",
+    "title": "Windows Persistence Techniques - Laboratory",
+    "subtitle": "Practice your persistence skills!",
+    "description_md": "### Description\n\nThis hands-on laboratory is designed to help students and security professionals understand, practice, and analyze persistence techniques used in Windows environments. Through guided ...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/fad0dc14-31ee-401e-a054-e7f90c44e4a7",
+    "image_path": "19b9a552-a412-4b9a-9b0b-069721a62e4c/51fa5969-f35e-4a05-8160-c38a63ed6ffe",
+    "available_at": null,
+    "purchase_options": [],
+    "price_label": null
+  },
+  {
+    "id": "629b0b83-3384-4074-b0f8-73d233b805c0",
+    "title": "XSS Labs v1",
+    "subtitle": "Develop skills by exploring XSS challenges",
+    "description_md": "## Description\n\n**XSS Labs v1** is a comprehensive Red Team training laboratory designed to systematically develop real-world expertise in Cross-Site Scripting exploitation and defense. Featuring 30 p...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/629b0b83-3384-4074-b0f8-73d233b805c0",
+    "image_path": "cf35cb4f-0929-4663-b807-1938782a9b76/49e41399-93e1-411e-8b99-ccebd7508a6d",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "pwyc",
+        "min_cents": 200,
+        "max_cents": 100000,
+        "default_cents": 300,
+        "id": "8bbf1a71-9493-4248-9e19-19cfcff915ec"
+      }
+    ],
+    "price_label": null
+  },
+  {
+    "id": "1e272288-7a7b-4e10-82e2-cbe4fdad3d20",
+    "title": "Yen Language Programming Beginners",
+    "subtitle": "Learn the basics of the new Yen programming language.\n\n",
+    "description_md": "## Yen Programming Language – From Zero to Practical Development\n\nYen is a modern, lightweight programming language designed to be simple, readable, and powerful. In this course, you will learn how Ye...",
+    "officialUrl": "https://courses.redteamleaders.com/courses/1e272288-7a7b-4e10-82e2-cbe4fdad3d20",
+    "image_path": "884e3471-6a52-4c44-9009-3b9f505140e2/f17bcb90-3b56-45f7-ab74-b91914c4dd22",
+    "available_at": null,
+    "purchase_options": [
+      {
+        "type": "free",
+        "id": "daa7c9ff-8dab-481c-8054-d41105ef0edd"
+      }
+    ],
+    "price_label": null
+  }
+]
